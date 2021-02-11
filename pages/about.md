@@ -7,9 +7,6 @@ permalink: /about/
 
 <img class="img-rounded" src="https://raw.githubusercontent.com/KiwiChat/stf/master/src/img/kiwichat.png" alt="KiwiChat" width="200">
 
-<img class="img-rounded" src="{{ site.urlimg }}kiwichat.png" alt="KiwiChat" width="200" />
-
-<img src="https://raw.githubusercontent.com/KiwiChat/stf/master/src/img/kiwichat.png" />
 # About
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
