@@ -1,6 +1,6 @@
 # Site Settings
-name: RomaniaChat
-title: RomaniaChat | A blog theme for Jekyll
+name: KiwiChat
+title: KiwiChat | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -11,7 +11,7 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Acasa
     url: /
   - title: About
     url: /about
