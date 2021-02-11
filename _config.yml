@@ -102,3 +102,11 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
+# This URL points directly to the images directory making
+
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+
+urlimg: 'https://kiwichat.github.io/stf/src/img/'
+
