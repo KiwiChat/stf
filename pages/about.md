@@ -9,6 +9,7 @@ permalink: /about/
 
 <img src="{{ site.urlimg }}kiwichat.png" />
 
+<img src="https://raw.githubusercontent.com/KiwiChat/stf/master/src/img/kiwichat.png" />
 # About
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
