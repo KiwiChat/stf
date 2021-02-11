@@ -108,5 +108,5 @@ version: v3.1.0
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 
-urlimg: 'https://kiwichat.github.io/stf/src/img/'
+urlimg: 'https://raw.githubusercontent.com/KiwiChat/stf/master/src/img/'
 
