@@ -7,7 +7,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-<img src="{{ site.urlimg }}kiwichat.png" />
+<img class="img-rounded" src="{{ site.urlimg }}kiwichat.png" alt="KiwiChat" width="200" />
 
 <img src="https://raw.githubusercontent.com/KiwiChat/stf/master/src/img/kiwichat.png" />
 # About
